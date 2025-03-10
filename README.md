@@ -22,3 +22,8 @@ atau Import <b>testing_laravel.sql</b>
 ```bash
 php artisan key:generate
 ```
+
+## Login
+email: admin@gmail.com
+
+password: sys@12345
